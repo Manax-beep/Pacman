@@ -1,0 +1,83 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (sf.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  editMap.cpp
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(88,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(226,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(227,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(228,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(229,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(258,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(259,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(260,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(261,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(429,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(443,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(447,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(451,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(455,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(461,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(462,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(500,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(501,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(539,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(540,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(573,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(574,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(611,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(614,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(616,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(620,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(623,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(624,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(628,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(631,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(632,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(636,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(639,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(640,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(688,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\editMap.cpp(688,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(27,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(28,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(29,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(30,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(39,28): warning C4553: '==': result of expression not used; did you intend '='?
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(59,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(60,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(61,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(62,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(231,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(243,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(247,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(251,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(255,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(261,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(262,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(300,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(301,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(339,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(340,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(373,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(374,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(411,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(414,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(415,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(421,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(424,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(425,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(430,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(433,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(434,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(439,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(442,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(443,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(492,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Repos\Курсовой проект 3 семестр пакман\sf\game.cpp(492,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  menu.cpp
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 279 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sf.vcxproj -> E:\Repos\Курсовой проект 3 семестр пакман\x64\Release\Pacman.exe

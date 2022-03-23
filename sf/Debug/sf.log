@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sf.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+c:\users\crazy\desktop\sf\sf\game.cpp(27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(29): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(30): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(39): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\crazy\desktop\sf\sf\game.cpp(59): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(61): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(62): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(230): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(245): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(249): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(253): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(257): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(263): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(264): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(302): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(303): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(341): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(342): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(375): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(376): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(413): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(416): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(418): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(422): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(425): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(426): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(430): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(433): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(434): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(438): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(441): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(442): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\crazy\desktop\sf\sf\game.cpp(490): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  sf.vcxproj -> C:\Users\crazy\Desktop\sf\Debug\Pacman.exe
+  sf.vcxproj -> C:\Users\crazy\Desktop\sf\Debug\Pacman.pdb (Partial PDB)
